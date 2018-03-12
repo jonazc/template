@@ -9,4 +9,4 @@ Install the package with pip::
 
 but you can also use other templates blablabla
 
-or some more else others stuff
+or some more else others stuff, peep
